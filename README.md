@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@roxgg2/Rohit**.
 - 👀 I’m interested in **Coding and Exploring new things:)**.
-- 🌱 I’m currently learning **Python and Sql**.
+- 🌱  **Python,Django and Sql** Developer.
 - 💞️ I’m looking to collaborate on Hands on project.
 - 📫 Just text me, I will be there.
 <!---
